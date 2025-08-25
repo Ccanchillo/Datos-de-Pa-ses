@@ -70,8 +70,6 @@ Aplicación de escritorio desarrollada en Python utilizando PySide6 que permite 
 - **Manejo de errores**: Sistema robusto de manejo de excepciones
 - **API REST**: Integración con REST Countries API
 
-## 📱 Capturas de Pantalla
-*[Aquí puedes agregar capturas de pantalla de tu aplicación]*
 
 ## 🤝 Contribución
 Este proyecto fue desarrollado como parte de una tarea académica. Para contribuir:
@@ -98,11 +96,6 @@ Si encuentras algún error o tienes sugerencias, por favor:
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-**Desarrollado por:** [Tu Nombre]
-**Fecha:** [Fecha de Desarrollo]
-**Asignatura:** [Nombre de la Asignatura]
 
 ## 🙏 Agradecimientos
 - **REST Countries API** por proporcionar datos de países
